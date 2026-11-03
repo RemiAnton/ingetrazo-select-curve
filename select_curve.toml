@@ -1,0 +1,20 @@
+id = "select_curve"
+version = "1.0.0"
+author = "Remi Anton"
+author_url = "https://github.com/RemiAnton"
+license = "MIT"
+repository = "https://github.com/RemiAnton/ingetrazo-select-curve"
+download = "https://raw.githubusercontent.com/RemiAnton/ingetrazo-select-curve/v1.0.0/select_curve.py"
+sha256 = "2b213fb8362d043ede2fc04189269927162d99ad8f5576755caa99c3ec30d02a"
+ingetrazo = "0.5.5"
+tags = ["selection", "modeling", "productivity", "curves"]
+
+[name]
+en = "Select Curve"
+es = "Seleccionar Curva"
+pt = "Selecionar Curva"
+
+[summary]
+en = "Replication of ThomThom's SketchUp Select Curve tool: interactive bidirectional curve selection with hover preview and macOS modifiers."
+es = "Replicación de la herramienta Select Curve de ThomThom para SketchUp: selección interactiva bidireccional de curvas con previsualización al pasar el cursor y modificadores de macOS."
+pt = "Replicação da ferramenta Select Curve do ThomThom do SketchUp: seleção interativa bidirecional de curvas com visualização ao passar o cursor e modificadores do macOS."
