@@ -58,4 +58,4 @@ Restart IngeTrazo (or hot-reload via the Extensions menu). The **Select Curve** 
 
 ## License
 
-MIT License. Copyright (c) 2026 Remi Anton and IngeTrazo contributors.
+MIT License. Copyright (c) 2026 Remi Clinton and IngeTrazo contributors.

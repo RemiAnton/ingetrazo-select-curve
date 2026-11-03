@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 Remi Anton and IngeTrazo contributors.
+# Copyright (c) 2026 Remi Clinton and IngeTrazo contributors.
 """Select Curve interactive selection tool for IngeTrazo on macOS.
 
 Replicates the functionality and behavior of ThomThom's "Select Curve" plugin from SketchUp:
