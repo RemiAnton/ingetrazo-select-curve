@@ -2,7 +2,7 @@
 # Copyright (c) 2026 Remi Clinton and IngeTrazo contributors.
 """Select Curve interactive selection tool for IngeTrazo on macOS.
 
-Replicates the functionality and behavior of ThomThom's "Select Curve" plugin from SketchUp:
+Selects a whole chain of connected edges with one click:
 - Bidirectional edge traversal finding connected visible/hard edge paths.
 - Ignores hidden, softened, and smoothed edges (e.g. cylinder rims stay continuous).
 - Stops traversal at dead-ends (0 edges), forks/branches (2+ edges), or closed loops.

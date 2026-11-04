@@ -1,6 +1,6 @@
 # Select Curve for IngeTrazo (macOS)
 
-An interactive curve selection tool for **[IngeTrazo](https://ingetrazo.com)** that faithfully replicates the full behavior and functionality of Thomas Thomassen's (**ThomThom**) acclaimed *Select Curve* plugin from Trimble SketchUp.
+An interactive curve selection tool for **[IngeTrazo](https://ingetrazo.com)** that selects a whole chain of connected visible edges with one click.
 
 ---
 

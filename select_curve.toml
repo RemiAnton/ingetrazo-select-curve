@@ -1,13 +1,13 @@
 id = "select_curve"
-version = "1.0.0"
+version = "1.0.1"
 author = "Remi Clinton"
 author_url = "https://github.com/RemiAnton"
 license = "MIT"
 repository = "https://github.com/RemiAnton/ingetrazo-select-curve"
-download = "https://raw.githubusercontent.com/RemiAnton/ingetrazo-select-curve/v1.0.0/select_curve.py"
-sha256 = "b20bdc08711fa3a499c073314b94ca83eda0658b814e24eaddd6959c0f3dc86e"
+download = "https://raw.githubusercontent.com/RemiAnton/ingetrazo-select-curve/v1.0.1/select_curve.py"
+sha256 = "76f198403cf5bac8323e7e4d2e07d23fb5363f600f731ea66fcd7edbc80b73c6"
 ingetrazo = "0.5.5"
-tags = ["selection", "modeling", "productivity", "curves"]
+tags = ["drawing", "productivity"]
 
 [name]
 en = "Select Curve"
@@ -15,6 +15,6 @@ es = "Seleccionar Curva"
 pt = "Selecionar Curva"
 
 [summary]
-en = "Replication of ThomThom's SketchUp Select Curve tool: interactive bidirectional curve selection with hover preview and macOS modifiers."
-es = "Replicación de la herramienta Select Curve de ThomThom para SketchUp: selección interactiva bidireccional de curvas con previsualización al pasar el cursor y modificadores de macOS."
-pt = "Replicação da ferramenta Select Curve do ThomThom do SketchUp: seleção interativa bidirecional de curvas com visualização ao passar o cursor e modificadores do macOS."
+en = "Select a whole chain of connected edges with one click: it follows visible edges and stops at forks, dead ends and closed loops. Live preview under the cursor; modifiers to add, remove or toggle."
+es = "Selecciona de un clic una cadena entera de aristas conectadas: sigue las aristas visibles y para en bifurcaciones, extremos y bucles cerrados. Vista previa bajo el cursor y teclas para añadir, quitar o alternar."
+pt = "Seleciona com um clique uma cadeia inteira de arestas conectadas: segue as arestas visíveis e para em bifurcações, extremidades e laços fechados. Prévia sob o cursor e teclas para adicionar, remover ou alternar."
